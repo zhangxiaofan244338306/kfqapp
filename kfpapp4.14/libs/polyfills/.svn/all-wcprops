@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/KFQ_APP/!svn/ver/1/libs/polyfills
+END
+typedarray.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/KFQ_APP/!svn/ver/1/libs/polyfills/typedarray.js
+END
+FileSaver.ie9.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/KFQ_APP/!svn/ver/1/libs/polyfills/FileSaver.ie9.js
+END
+trim.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/KFQ_APP/!svn/ver/1/libs/polyfills/trim.js
+END
+array.generics.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/KFQ_APP/!svn/ver/1/libs/polyfills/array.generics.js
+END
+bind.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/KFQ_APP/!svn/ver/1/libs/polyfills/bind.js
+END
+Blob.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/KFQ_APP/!svn/ver/1/libs/polyfills/Blob.js
+END
+FileSaver.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/KFQ_APP/!svn/ver/1/libs/polyfills/FileSaver.js
+END
+console.js
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/KFQ_APP/!svn/ver/1/libs/polyfills/console.js
+END
+now.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/KFQ_APP/!svn/ver/1/libs/polyfills/now.js
+END

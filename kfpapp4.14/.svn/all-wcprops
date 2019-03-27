@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 24
+/svn/KFQ_APP/!svn/ver/37
+END
+readme.html
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/KFQ_APP/!svn/ver/1/readme.html
+END
+.jshintignore
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/KFQ_APP/!svn/ver/1/.jshintignore
+END
+web.config
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/KFQ_APP/!svn/ver/1/web.config
+END
+.jshintrc
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/KFQ_APP/!svn/ver/1/.jshintrc
+END
+3rd-party-license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/KFQ_APP/!svn/ver/1/3rd-party-license.txt
+END
+env.js
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/KFQ_APP/!svn/ver/1/env.js
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/KFQ_APP/!svn/ver/23/.project
+END
+appinfo.json
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/KFQ_APP/!svn/ver/3/appinfo.json
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/KFQ_APP/!svn/ver/26/index.html
+END
+simpleLoader.js
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/KFQ_APP/!svn/ver/1/simpleLoader.js
+END
+config.json
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/KFQ_APP/!svn/ver/29/config.json
+END
+config-readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/KFQ_APP/!svn/ver/1/config-readme.txt
+END
+init.js
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/KFQ_APP/!svn/ver/1/init.js
+END

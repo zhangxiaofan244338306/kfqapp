@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/KFQ_APP/!svn/ver/1/libs
+END
+main.js
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/KFQ_APP/!svn/ver/1/libs/main.js
+END
+caja-html-sanitizer-minified.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/KFQ_APP/!svn/ver/1/libs/caja-html-sanitizer-minified.js
+END
+package.json
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/KFQ_APP/!svn/ver/1/libs/package.json
+END
+package.js
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/KFQ_APP/!svn/ver/1/libs/package.js
+END
+qrcode.js
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/KFQ_APP/!svn/ver/1/libs/qrcode.js
+END

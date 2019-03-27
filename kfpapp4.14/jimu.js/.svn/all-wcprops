@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/KFQ_APP/!svn/ver/3/jimu.js
+END
+DataManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/KFQ_APP/!svn/ver/1/jimu.js/DataManager.js
+END
+Query.js
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/KFQ_APP/!svn/ver/1/jimu.js/Query.js
+END
+LayoutManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/KFQ_APP/!svn/ver/1/jimu.js/LayoutManager.js
+END
+MapManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/KFQ_APP/!svn/ver/1/jimu.js/MapManager.js
+END
+statisticsUtils.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/KFQ_APP/!svn/ver/1/jimu.js/statisticsUtils.js
+END
+AppStateManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/KFQ_APP/!svn/ver/1/jimu.js/AppStateManager.js
+END
+BaseWidgetSetting.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/KFQ_APP/!svn/ver/1/jimu.js/BaseWidgetSetting.js
+END
+CSVUtils.js
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/KFQ_APP/!svn/ver/1/jimu.js/CSVUtils.js
+END
+serviceBrowserRuleUtils.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/KFQ_APP/!svn/ver/1/jimu.js/serviceBrowserRuleUtils.js
+END
+RelatedRecordsPopupProjector.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/KFQ_APP/!svn/ver/1/jimu.js/RelatedRecordsPopupProjector.js
+END
+SelectionManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/KFQ_APP/!svn/ver/1/jimu.js/SelectionManager.js
+END
+FilterManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/KFQ_APP/!svn/ver/1/jimu.js/FilterManager.js
+END
+PoolControllerMixin.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/KFQ_APP/!svn/ver/1/jimu.js/PoolControllerMixin.js
+END
+shareUtils.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/KFQ_APP/!svn/ver/1/jimu.js/shareUtils.js
+END
+FeatureActionManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/KFQ_APP/!svn/ver/1/jimu.js/FeatureActionManager.js
+END
+main.js
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/KFQ_APP/!svn/ver/1/jimu.js/main.js
+END
+rendererUtils.js
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/KFQ_APP/!svn/ver/1/jimu.js/rendererUtils.js
+END
+ServiceBrowserRule.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/KFQ_APP/!svn/ver/1/jimu.js/ServiceBrowserRule.js
+END
+ConfigLoader.js
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/KFQ_APP/!svn/ver/1/jimu.js/ConfigLoader.js
+END
+PopupManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/KFQ_APP/!svn/ver/1/jimu.js/PopupManager.js
+END
+jimu.d.ts
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/KFQ_APP/!svn/ver/1/jimu.js/jimu.d.ts
+END
+OnScreenWidgetPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/KFQ_APP/!svn/ver/1/jimu.js/OnScreenWidgetPanel.js
+END
+ConfigManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/KFQ_APP/!svn/ver/1/jimu.js/ConfigManager.js
+END
+utils.js
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/KFQ_APP/!svn/ver/1/jimu.js/utils.js
+END
+Role.js
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/KFQ_APP/!svn/ver/1/jimu.js/Role.js
+END
+tokenUtils.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/KFQ_APP/!svn/ver/1/jimu.js/tokenUtils.js
+END
+oauth-callback.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/KFQ_APP/!svn/ver/1/jimu.js/oauth-callback.html
+END
+portalUrlUtils.js
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/KFQ_APP/!svn/ver/1/jimu.js/portalUrlUtils.js
+END
+filterUtils.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/KFQ_APP/!svn/ver/1/jimu.js/filterUtils.js
+END
+TooltipUtils.js
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/KFQ_APP/!svn/ver/1/jimu.js/TooltipUtils.js
+END
+WidgetManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/KFQ_APP/!svn/ver/1/jimu.js/WidgetManager.js
+END
+BaseWidget.js
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/KFQ_APP/!svn/ver/1/jimu.js/BaseWidget.js
+END
+portalUtils.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/KFQ_APP/!svn/ver/1/jimu.js/portalUtils.js
+END
+jsonConverters.js
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/KFQ_APP/!svn/ver/1/jimu.js/jsonConverters.js
+END
+BaseFeatureAction.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/KFQ_APP/!svn/ver/1/jimu.js/BaseFeatureAction.js
+END
+WidgetPlaceholder.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/KFQ_APP/!svn/ver/1/jimu.js/WidgetPlaceholder.js
+END
+symbolUtils.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/KFQ_APP/!svn/ver/1/jimu.js/symbolUtils.js
+END
+package.json
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/KFQ_APP/!svn/ver/1/jimu.js/package.json
+END
+BaseWidgetFrame.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/KFQ_APP/!svn/ver/1/jimu.js/BaseWidgetFrame.js
+END
+OnScreenWidgetIcon.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/KFQ_APP/!svn/ver/1/jimu.js/OnScreenWidgetIcon.js
+END
+PanelManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/KFQ_APP/!svn/ver/1/jimu.js/PanelManager.js
+END
+package.js
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/KFQ_APP/!svn/ver/1/jimu.js/package.js
+END
+BaseWidgetPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/KFQ_APP/!svn/ver/1/jimu.js/BaseWidgetPanel.js
+END
+exportUtils.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/KFQ_APP/!svn/ver/1/jimu.js/exportUtils.js
+END
+MapUrlParamsHandler.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/KFQ_APP/!svn/ver/1/jimu.js/MapUrlParamsHandler.js
+END
